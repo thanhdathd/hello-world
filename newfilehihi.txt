@@ -1,5 +1,5 @@
 hi hi this is my new file 
 i make this file for the first time, master change
-
 i then add something,hihi, master change
 here master change. hihi
+this is my continue develop on my dev branch
